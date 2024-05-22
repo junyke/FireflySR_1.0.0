@@ -1,0 +1,20 @@
+{
+  "lineups": {
+    "0": 1310,
+    "1": 8006,
+    "2": 1303,
+    "3": 1309
+  },
+  "position": {
+    "x": 81599,
+    "y": 186848,
+    "z": 529090,
+    "rot_y": 89999
+  },
+  "scene": {
+    "plane_id": 20313,
+    "floor_id": 20313001,
+    "entry_id": 2031301
+  },
+  "main_character": "FemaleHarmony"
+}

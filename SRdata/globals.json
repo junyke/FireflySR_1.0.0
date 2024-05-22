@@ -1,0 +1,26 @@
+{
+	"lineup": [1003,1314,1303,1304],
+	"hero_gender": "GenderWoman",
+	"hero_basic_type": "GirlShaman",
+	"battle_type": "PF",
+	"blessings": [
+			{
+				"id": 3031004,
+				"level": 1
+			},
+			{
+				"id": 3031319,
+				"level": 1
+			}
+		],
+	"custom_stats": [],
+	"cycle_count": 4,
+	"stage_id": 30305042,
+	"path_resonance_id": 0,
+	"monster_wave_list": 
+	[
+		[1022010,1002040,8003010,1022010,1002040],
+		[2024010],
+		[2024010]
+	]
+}
