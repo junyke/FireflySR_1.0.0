@@ -1,7 +1,7 @@
 # FireflySR
 不需要安裝任何環境,支援OS包以及CN包 
 
- [OS_v1] (https://autopatchos.starrails.com/client/Beta/20240501125700_dUBAjS7YiX9nF7mJ/StarRail_2.2.51.zip)
+ [OS_v1](https://autopatchos.starrails.com/client/Beta/20240501125700_dUBAjS7YiX9nF7mJ/StarRail_2.2.51.zip)
  
  [CN_v1](https://autopatchcn.bhsr.com/client/beta/20240501125322_79U2GV0ZN4GzgZ4Y/StarRail_2.2.51.zip)
  
