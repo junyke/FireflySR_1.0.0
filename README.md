@@ -30,5 +30,5 @@ use the run.bat
 # 支援freeSR-data.json生成文件
 [URL] (https://freesr-tools.pages.dev/)
 
-服務端內涵一些預設文件在 `freeSR-data` 其中只有前檔名為 `freesr-data` 可用,且要將目標檔案拖至FireflySR根目錄下,檔名為freesr-data才可使用.
+服務端內涵一些預設文件在 SRdata 其中只有前檔名為 freesr-data 可用,且要將目標檔案拖至FireflySR根目錄下,檔名為freesr-data才可使用.
 
