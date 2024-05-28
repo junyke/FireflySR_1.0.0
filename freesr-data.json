@@ -6119,22 +6119,27 @@
       "sp_max": 140
     }
   },
-  "battle_config": {
-    "battle_type": "Default",
-    "monsters": [
-      [
-        {
-          "level": 95,
-          "monster_id": 3025012,
-          "max_hp": 0
-        }
-      ]
-    ],
-    "blessings": [],
-    "stage_id": 201012311,
-    "cycle_count": 0,
-    "path_resonance_id": 0,
-    "custom_stats": []
+	"battle_config": {
+		"battle_type": "DEFAULT",
+		"blessings": [],
+		"custom_stats": [],
+		"cycle_count": 30,
+		"monsters": [
+			[
+				{
+					"level": 95,
+					"monster_id": 1004012,
+					"amount": 1
+				},
+				{
+					"level": 95,
+					"monster_id": 2004011,
+					"amount": 1
+				}
+			]
+		],
+		"stage_id": 201012311,
+		"path_resonance_id": 0
   },
   "lineups": {
     "0": 1310,
