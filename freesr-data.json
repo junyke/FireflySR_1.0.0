@@ -6117,46 +6117,45 @@
       "techniques": [],
       "sp_value": 0,
       "sp_max": 140
-    }
-  },
-	"battle_config": {
-		"battle_type": "DEFAULT",
-		"blessings": [],
-		"custom_stats": [],
-		"cycle_count": 30,
-		"monsters": [
-			[
-				{
-					"level": 95,
-					"monster_id": 1004012,
-					"amount": 1
-				},
-				{
-					"level": 95,
-					"monster_id": 2004011,
-					"amount": 1
-				}
-			]
-		],
-		"stage_id": 201012311,
-		"path_resonance_id": 0
-  },
-  "lineups": {
+    },
+    "battle_config": {
+    "battle_type": "DEFAULT",
+    "blessings": [],
+    "custom_stats": [],
+    "cycle_count": 30,
+    "monsters": [
+     [
+      {
+       "level": 95,
+       "monster_id": 1004012,
+       "amount": 1
+      },
+      {
+       "level": 95,
+       "monster_id": 2004011,
+       "amount": 1
+      }
+     ]
+   ],
+   "stage_id": 201012311,
+   "path_resonance_id": 0
+},
+ "lineups": {
     "0": 1310,
     "1": 8006,
     "2": 1303,
     "3": 1309
   },
   "position": {
-    "x": 81599,
-    "y": 186848,
-    "z": 529090,
-    "rot_y": 89999
+    "x": 128800,
+    "y": 14356,
+    "z": 105731,
+    "rot_y": 45000
   },
   "scene": {
-    "plane_id": 20313,
-    "floor_id": 20313001,
-    "entry_id": 2031301
+    "plane_id": 80112,
+    "floor_id": 80112001,
+    "entry_id": 8011201
   },
   "main_character": "FemaleHarmony"
 }
