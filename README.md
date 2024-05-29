@@ -11,6 +11,12 @@
  [OS_v3](https://autopatchos.starrails.com/client/Beta/20240517111205_PZfNSHVLH509e76v/StarRail_.2.53.zip)
  
  [CN_v3](https://autopatchcn.bhsr.com/client/beta/20240517110535_d7lJoh4jYXkVGXI1/StarRail_2.2.53.zip)
+
+ # V4 Client
+
+ [OS_v4](https://autopatchos.starrails.com/client/Beta/20240524111944_IhuuEu6NfLJtObzr/StarRail_2.2.54.zip)
+ 
+ [CN_v4](https://autopatchcn.bhsr.com/client/beta/20240524111603_TZHPxvCZGt1eRV0w/StarRail_2.2.54.zip)
  
 # 必安裝!!! #
 [NET.7.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.315-windows-x64-installer)
