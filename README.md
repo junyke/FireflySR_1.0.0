@@ -44,3 +44,4 @@ use the run.bat
 
 服務端內涵一些預設文件在 SRdata 其中只有前檔名為 freesr-data 可用,且要將目標檔案拖至FireflySR根目錄下,檔名為freesr-data才可使用.
 
+https://github.com/LoveFurina/FeixiaoSR
